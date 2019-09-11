@@ -1,2 +1,2 @@
 # jsgame
-jsgame
+Added GitHub Pages support
